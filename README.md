@@ -18,11 +18,11 @@ i can do:
 
 i whant to be able to do:
 
--make a hackintosh
--make hacks for cronus zen
--use a flipper zero
--get passwords of wifis
--root an andorid
+- make a hackintosh
+- make hacks for cronus zen
+- use a flipper zero
+- get passwords of wifis
+- root an andorid
 
 📫 contact me:
 
