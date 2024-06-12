@@ -13,7 +13,7 @@ whant to learn:
 i can do:
 
 - program an app for apple devices
-- jailbreak nintnendo swich
+- jailbreak nintendo swich
 - jailbreak iphone ad ipad (theoretically)
 
 i whant to be able to do:
