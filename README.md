@@ -1,8 +1,8 @@
 i like jailbreaking things (and always fail)
 
-💻 Languages:
+ 💻 Languages:
 
- <img src="https://sswg.gallerycdn.vsassets.io/extensions/sswg/swift-lang/1.7.0/1698240428599/Microsoft.VisualStudio.Services.Icons.Default" alt="Swift" width="20"/> Swift
+  <img src="https://sswg.gallerycdn.vsassets.io/extensions/sswg/swift-lang/1.7.0/1698240428599/Microsoft.VisualStudio.Services.Icons.Default" alt="Swift" width="20"/> Swift
 
 whant to learn:
 
