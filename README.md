@@ -29,15 +29,11 @@
 
 ### 📫 Contact Me:
 
-<p>
-  <a href="mailto:ravanellimarco82@gmail.com"><img align="left" style="margin-right: 5px; border-radius: 1%;" alt="Email" width="26px" src="https://github.com/LoreSchaeffer/LoreSchaeffer/blob/69785c1ed6a5774b298181e3d81cdc92dbf25280/resources/mail.png"/></a>Email &middot; <a style="font-weight: bold;" href="mailto:ravanellimarco82@gmail.com">ravanellimarco82@gmail.com</a>
-</p>
-<p>
+
   <a href="https://discord.com"><img align="left" style="margin-right: 5px;" alt="Discord" width="26px" src="https://skillicons.dev/icons?i=discord&theme=light"/></a>Discord &middot; <a style="font-weight: bold;" href="https://discord.com">@scoottecs</a>
 </p>
 <p>
-  <a href="https://instagram.com/ravanellus"><img align="left" style="margin-right: 5px;" alt="Instagram" width="26px" src="https://skillicons.dev/icons?i=instagram&theme=light"/></a>Instagram &middot; <a style="font-weight: bold;" href="https://instagram.com/ravanellus">@ravanellus</a>
-</p>
+
 
 ### 🔧 What I Can Do:
 
